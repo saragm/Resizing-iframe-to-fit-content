@@ -1,9 +1,9 @@
 # resizing-iframe-to-fit-content
 <br>
-<script>
-  function resizeIframe(obj) {
-    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-  }
+<script><br>
+  function resizeIframe(obj) {<br>
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';<br>
+  }<br>
 </script>
 
 <br>
